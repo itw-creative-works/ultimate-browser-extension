@@ -1,0 +1,18 @@
+{
+  "name": "ultimate-browser-extension",
+  "version": "1.0.0",
+  "description": "Browser extension template that builds for Chrome, Firefox, & Opera.",
+  "scripts": {
+    "start": "npx bxm setup && npm start"
+  },
+  "author": {
+    "name": "ITW Creative Works",
+    "email": "hello@itwcreativeworks.com",
+    "url": "https://itwcreativeworks.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-extension-manager": "^1.0.0"
+  },
+  "dependencies": {}
+}
