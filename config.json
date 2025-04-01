@@ -1,0 +1,30 @@
+{
+  app: {
+    id: 'ultimate-browser-extension',
+  },
+  brand: {
+    name: 'Ultimate Browser Extension',
+    url: 'https://itwcreativeworks.com',
+    email: 'support@itwcreativeworks.com',
+    brandmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-blue-1024x1024.png',
+    wordmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-wordmark-blue-1024x.png',
+    combomark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-combomark-blue-1024x.png',
+  },
+  sentry: {
+    dsn: '',
+  },
+  google_analytics: {
+    id: '',
+    secret: '',
+  },
+  firebaseConfig: {
+    apiKey: 'AIzaSyDzy5BG9-i9RmymyFx6mfwSgaRioyfa0Cc',
+    authDomain: 'template.itwcreativeworks.com',
+    databaseURL: 'https://ultimate-jekyll.firebaseio.com',
+    projectId: 'ultimate-jekyll',
+    storageBucket: 'ultimate-jekyll.appspot.com',
+    messagingSenderId: '837186164890',
+    appId: '1:837186164890:web:f1f59569d661078c',
+    measurementId: 'G-FR3X7X4KYN',
+  },
+}
