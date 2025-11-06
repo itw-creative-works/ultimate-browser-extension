@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "browser-extension-manager": "^1.0.0"
+    "browser-extension-manager": "latest"
   },
   "dependencies": {}
 }
