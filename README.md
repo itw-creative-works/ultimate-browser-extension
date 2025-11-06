@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/package-json/v/itw-creative-works/ultimate-browser-extension.svg">
+  <img src="https://img.shields.io/github/package-json/v/itw-creative-works/browser-extension-manager.svg">
   <br>
-  <img src="https://img.shields.io/librariesio/release/npm/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/bundlephobia/min/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/codeclimate/maintainability-percentage/itw-creative-works/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/npm/dm/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/node/v/ultimate-browser-extension.svg">
+  <img src="https://img.shields.io/librariesio/release/npm/browser-extension-manager.svg">
+  <img src="https://img.shields.io/bundlephobia/min/browser-extension-manager.svg">
+  <img src="https://img.shields.io/codeclimate/maintainability-percentage/itw-creative-works/browser-extension-manager.svg">
+  <img src="https://img.shields.io/npm/dm/browser-extension-manager.svg">
+  <img src="https://img.shields.io/node/v/browser-extension-manager.svg">
   <img src="https://img.shields.io/website/https/itwcreativeworks.com.svg">
-  <img src="https://img.shields.io/github/license/itw-creative-works/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/github/contributors/itw-creative-works/ultimate-browser-extension.svg">
-  <img src="https://img.shields.io/github/last-commit/itw-creative-works/ultimate-browser-extension.svg">
+  <img src="https://img.shields.io/github/license/itw-creative-works/browser-extension-manager.svg">
+  <img src="https://img.shields.io/github/contributors/itw-creative-works/browser-extension-manager.svg">
+  <img src="https://img.shields.io/github/last-commit/itw-creative-works/browser-extension-manager.svg">
   <br>
   <br>
-  <a href="https://itwcreativeworks.com">Site</a> | <a href="https://www.npmjs.com/package/ultimate-browser-extension">NPM Module</a> | <a href="https://github.com/itw-creative-works/ultimate-browser-extension">GitHub Repo</a>
+  <a href="https://itwcreativeworks.com">Site</a> | <a href="https://www.npmjs.com/package/browser-extension-manager">NPM Module</a> | <a href="https://github.com/itw-creative-works/browser-extension-manager">GitHub Repo</a>
   <br>
   <br>
   <strong>Ultimate Browser Extension</strong> is a template that helps you jumpstart your Jekyll sites and is fueled by an intuitive incorporation of npm, gulp, and is fully SEO optimized and blazingly fast.
@@ -34,7 +34,6 @@
 3. Run these command to get everything setup and sync'd!
 ```bash
 npm install
-npx bxm setup
 npm start
 ```
 4. Open your browser and navigate to `chrome://extensions` (or the equivalent for your browser).
