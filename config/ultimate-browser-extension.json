@@ -2,13 +2,20 @@
   app: {
     id: 'ultimate-browser-extension',
   },
+  theme: {
+    id: 'classy',
+  },
   brand: {
     name: 'Ultimate Browser Extension',
     url: 'https://itwcreativeworks.com',
-    email: 'support@itwcreativeworks.com',
-    brandmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-blue-1024x1024.png',
-    wordmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-wordmark-blue-1024x.png',
-    combomark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-combomark-blue-1024x.png',
+    contact: {
+      email: 'support@itwcreativeworks.com',
+    },
+    images: {
+      brandmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-blue-1024x1024.png',
+      wordmark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-wordmark-blue-1024x.png',
+      combomark: 'https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-combomark-blue-1024x.png',
+    },
   },
   sentry: {
     dsn: '',
@@ -19,7 +26,7 @@
   },
   firebaseConfig: {
     apiKey: 'AIzaSyDzy5BG9-i9RmymyFx6mfwSgaRioyfa0Cc',
-    authDomain: 'template.itwcreativeworks.com',
+    authDomain: 'ultimate-jekyll.itwcreativeworks.com',
     databaseURL: 'https://ultimate-jekyll.firebaseio.com',
     projectId: 'ultimate-jekyll',
     storageBucket: 'ultimate-jekyll.appspot.com',
