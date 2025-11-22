@@ -21,7 +21,7 @@
   <a href="https://itwcreativeworks.com">Site</a> | <a href="https://www.npmjs.com/package/browser-extension-manager">NPM Module</a> | <a href="https://github.com/itw-creative-works/browser-extension-manager">GitHub Repo</a>
   <br>
   <br>
-  <strong>Ultimate Browser Extension</strong> is a template that helps you jumpstart your Jekyll sites and is fueled by an intuitive incorporation of npm, gulp, and is fully SEO optimized and blazingly fast.
+  <strong>Browser Extension Manager Template</strong> is a template that helps you jumpstart your browser extension development for multiple browsers with ease.
 </p>
 
 ## 🦄 Features
@@ -29,7 +29,7 @@
 * **NPM & Gulp**: Fueled by an intuitive incorporation of npm and gulp.
 
 ## 🚀 Getting started
-1. [Create a repo](https://github.com/itw-creative-works/ultimate-browser-extension/generate) from the **Ultimate Browser Extension** template.
+1. [Create a repo](https://github.com/itw-creative-works/browser-extension-manager-template/generate) from the **Browser Extension Manager Template** template.
 2. Clone the repo to your local machine.
 3. Run these command to get everything setup and sync'd!
 ```bash
@@ -42,7 +42,7 @@ npm start
 7. Your extension should now be loaded and ready to use!
 
 ## 📦 How to sync with the template
-1. Simply run `npx bxm setup` in Terminal to get all the latest updates from the **Ultimate Browser Extension template**.
+1. Simply run `npx bxm setup` in Terminal to get all the latest updates from the **Browser Extension Manager Template** template.
 
 ## 🌎 Publishing your extension
 1. Run `npm run dist` in Terminal to build your extension for production in every browser.

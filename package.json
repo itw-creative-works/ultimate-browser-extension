@@ -1,5 +1,5 @@
 {
-  "name": "ultimate-browser-extension",
+  "name": "browser-extension-manager-template",
   "version": "1.0.0",
   "description": "Browser extension template that builds for Chrome, Firefox, & Opera.",
   "scripts": {
