@@ -45,7 +45,7 @@ npm start
 1. Simply run `npx bxm setup` in Terminal to get all the latest updates from the **Browser Extension Manager Template** template.
 
 ## 🌎 Publishing your extension
-1. Run `npm run dist` in Terminal to build your extension for production in every browser.
+1. Run `npm run build` in Terminal to build your extension for production in every browser.
 2. Upload the respective `.zip` files to the browser's extension store.
 
 <!-- ## ⛳️ Flags
